@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Entity
+    //this is a new requwdn
 
 @Setter
 @Getter
